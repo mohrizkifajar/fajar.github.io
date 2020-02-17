@@ -1,0 +1,16 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+/* jumbotron */
+.jumbotron {
+  height: 500px;
+  background-image: url(../img/bg.jpg);
+  background-size: cover;
+  /* background-position: 0 -40px;; */
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, .5);
+}
+
+section {
+  min-height: 300px;
+}
